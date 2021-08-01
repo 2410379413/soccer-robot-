@@ -1,0 +1,22 @@
+﻿  BPNeuralNetwork.cpp
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(65,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(79,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(83,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(89,22): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(99,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(103,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(109,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(143,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(145,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Administrator\Desktop\Strategy Source\BPNeuralNetwork.cpp(147,22): warning C4018: “<”: 有符号/无符号不匹配
+  StdAfx.cpp
+  Strategy.cpp
+C:\Users\Administrator\Desktop\Strategy Source\Strategy.cpp(39,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : 参见“freopen”的声明
+C:\Users\Administrator\Desktop\Strategy Source\Strategy.cpp(40,1): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(243): message : 参见“freopen”的声明
+C:\Users\Administrator\Desktop\Strategy Source\Strategy.cpp(59,1): error C2491: “Create”: 不允许 dllimport 函数 的定义
+C:\Users\Administrator\Desktop\Strategy Source\Strategy.cpp(67,1): error C2491: “Destroy”: 不允许 dllimport 函数 的定义
+C:\Users\Administrator\Desktop\Strategy Source\Strategy.cpp(131,1): error C2491: “Strategy”: 不允许 dllimport 函数 的定义
+  正在生成代码...

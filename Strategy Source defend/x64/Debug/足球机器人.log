@@ -1,0 +1,18 @@
+﻿  Strategy.cpp
+c:\users\administrator\desktop\strategy source\BezierCurves .h(10): error C2864: 'BezierCurves::originCount' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\BezierCurves .h(11): error C2758: 'BezierCurves::originCount' : must be initialized in constructor base/member initializer list
+          c:\users\administrator\desktop\strategy source\BezierCurves .h(10) : see declaration of 'BezierCurves::originCount'
+c:\users\administrator\desktop\strategy source\MoveByBezier.h(11): error C2864: 'robotMove::m_last_v' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\MoveByBezier.h(12): error C2864: 'robotMove::m_last_theta' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\BPNeuralNetwork.h(59): error C2864: 'BPNeuralNetwork::m_Mse' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\BPNeuralNetwork.h(60): error C2864: 'BPNeuralNetwork::m_MseNum' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\brain.h(8): error C2864: 'brain::a' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\brain.h(8): error C2864: 'brain::b' : only static const integral data members can be initialized within a class
+Strategy.cpp(65): error C2491: 'Create' : definition of dllimport function not allowed
+Strategy.cpp(73): error C2491: 'Destroy' : definition of dllimport function not allowed
+Strategy.cpp(137): error C2491: 'Strategy' : definition of dllimport function not allowed
+  StdAfx.cpp
+  BPNeuralNetwork.cpp
+c:\users\administrator\desktop\strategy source\BPNeuralNetwork.h(59): error C2864: 'BPNeuralNetwork::m_Mse' : only static const integral data members can be initialized within a class
+c:\users\administrator\desktop\strategy source\BPNeuralNetwork.h(60): error C2864: 'BPNeuralNetwork::m_MseNum' : only static const integral data members can be initialized within a class
+  Generating Code...
